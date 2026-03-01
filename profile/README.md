@@ -1,7 +1,7 @@
 ## 📌 프로젝트 소개
 
 ---
-명지대학교 중앙동아리 **COW**에서 개발 및 운영하는 **'명지공방'** 동아리 웹사이트 입니다.
+명지대학교 중앙 IT서비스 개발동아리 **COW**에서 개발 및 운영하는 **'명지공방'** 동아리 웹사이트 입니다.
 
 
 ## 🛠️ 기술 스택
@@ -11,6 +11,10 @@
 ![Spring](https://img.shields.io/badge/Spring-4.0.1-6DB33F?logo=spring&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?logo=springsecurity&logoColor=white)
+
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3-06B6D4?logo=tailwindcss&logoColor=white)
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
@@ -62,6 +66,26 @@
     <td align="center">BE Developer</td>
     <td align="center">BE Developer</td>
     <td align="center">BE Developer</td>
+  </tr>
+</table>
+
+---
+
+### PM
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChoiTheCreator">
+        <img src="https://avatars.githubusercontent.com/ChoiTheCreator?v=4" width="100px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>최원빈</b></td>
+  </tr>
+  <tr>
+    <td align="center">PM</td>
   </tr>
 </table>
 
