@@ -1,7 +1,7 @@
 ## 📌 프로젝트 소개
 
 ---
-명지대학교 중앙 IT서비스 개발동아리 **COW**에서 개발 및 운영하는 **'명지공방'** 동아리 웹사이트 입니다.
+명지대학교 중앙동아리 **COW**에서 개발 및 운영하는 **'명지공방'** 동아리 웹사이트 입니다.
 
 
 ## 🛠️ 기술 스택
@@ -34,6 +34,8 @@
 
 
 ## 🧑‍🤝‍🧑 팀원 소개
+
+
 
 ---
 
@@ -71,26 +73,6 @@
 
 ---
 
-### PM
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ChoiTheCreator">
-        <img src="https://avatars.githubusercontent.com/ChoiTheCreator?v=4" width="100px" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>최원빈</b></td>
-  </tr>
-  <tr>
-    <td align="center">PM</td>
-  </tr>
-</table>
-
----
-
 ### Front-End
 
 <table>
@@ -106,5 +88,25 @@
   </tr>
   <tr>
     <td align="center">FE Developer</td>
+  </tr>
+</table>
+
+---
+
+### PM
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ChoiTheCreator">
+        <img src="https://avatars.githubusercontent.com/ChoiTheCreator?v=4" width="100px" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>최원빈</b></td>
+  </tr>
+  <tr>
+    <td align="center">PM</td>
   </tr>
 </table>
