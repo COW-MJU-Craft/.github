@@ -58,13 +58,20 @@
         <img src="https://avatars.githubusercontent.com/u/232751753?v=4" width="100px" />
       </a>
     </td>
+    <td align="center">
+      <a href="https://github.com/baaamk">
+        <img src="https://avatars.githubusercontent.com/u/136908616?v=4" width="100px" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td align="center"><b>김윤진</b></td>
     <td align="center"><b>배한준</b></td>
     <td align="center"><b>유효석</b></td>
+    <td align="center"><b>방현우</b></td>
   </tr>
   <tr>
+    <td align="center">BE Developer</td>
     <td align="center">BE Developer</td>
     <td align="center">BE Developer</td>
     <td align="center">BE Developer</td>
